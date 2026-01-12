@@ -1,9 +1,9 @@
 {
-    "name": "dave-session",
+    "name": "darkcore-session",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/lu3bqk.jpg",
-    "repository": "https://github.com/gifteddevsmd/DAVE-PAIR",
-    "keywords": ["Trashcore"],
+    "repository": "https://github.com/LUKTECH-hub/DARKCORE-XMD",
+    "keywords": ["darkcore"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
